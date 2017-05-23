@@ -24,36 +24,5 @@
             <pubDate>Sun, 21 May 2017 07:27:17 UTC</pubDate>
             <enclosure url="https://github.com/Antondomashnev/FBSnapshotsViewer/releases/download/0.4.0/FBSnapshotsViewer-0.4.0.app.zip" type="application/octet-stream" sparkle:version="0.4.0"/>
         </item>
-        <item>
-            <title>0.3.0</title>
-            <description>
-                <ul> <li><a href="https://github.com/Antondomashnev/FBSnapshotsViewer/pull/31">#31</a>: Add Derived Data configuration - <a href="https://github.com/antondomashnev">@antondomashnev</a>.</li> <li><a href="https://github.com/Antondomashnev/FBSnapshotsViewer/pull/28">#28</a>: Update UI color scheme for Apple's dark interface mode - <a href="https://github.com/antondomashnev">@antondomashnev</a>.</li> <li><a href="https://github.com/Antondomashnev/FBSnapshotsViewer/pull/29">#29</a>: Add open in Kaleidoscope feature - <a href="https://github.com/antondomashnev">@antondomashnev</a>.</li> <li><a href="https://github.com/Antondomashnev/FBSnapshotsViewer/pull/30">#30</a>: Add application icon - <a href="https://github.com/antondomashnev">@antondomashnev</a>.</li> </ul>
-            </description>
-            <pubDate>Sun, 14 May 2017 21:48:06 UTC</pubDate>
-            <enclosure url="https://github.com/Antondomashnev/FBSnapshotsViewer/releases/download/0.3.0/FBSnapshotsViewer-0.3.0.app.zip" type="application/octet-stream" sparkle:version="0.3.0"/>
-        </item>
-        <item>
-            <title>0.2.1</title>
-            <description>
-                <ul> <li><a href="https://github.com/Antondomashnev/FBSnapshotsViewer/pull/24">#24</a>: Add black menubar support - <a href="https://github.com/antondomashnev">@antondomashnev</a>.</li> </ul>
-            </description>
-            <pubDate>Wed, 03 May 2017 09:04:15 UTC</pubDate>
-            <enclosure url="https://github.com/Antondomashnev/FBSnapshotsViewer/releases/download/0.2.1/FBSnapshotsViewer-0.2.1.app.zip" type="application/octet-stream" sparkle:version="0.2.1"/>
-        </item>
-        <item>
-            <title>0.2.0</title>
-            <description>
-                <ul> <li><a href="https://github.com/Antondomashnev/FBSnapshotsViewer/pull/17">#17</a>: Remove run script - <a href="https://github.com/antondomashnev">@antondomashnev</a>.</li> <li><a href="https://github.com/Antondomashnev/FBSnapshotsViewer/pull/16">#16</a>: Add Xcode project logs parser - <a href="https://github.com/antondomashnev">@antondomashnev</a>.</li> </ul>
-            </description>
-            <pubDate>Mon, 01 May 2017 13:07:13 UTC</pubDate>
-            <enclosure url="https://github.com/Antondomashnev/FBSnapshotsViewer/releases/download/0.2.0/FBSnapshotsViewer-0.2.0.app.zip" type="application/octet-stream" sparkle:version="0.2.0"/>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <description><p>Initial release 🎉</p></description>
-            <pubDate>Fri, 24 Mar 2017 22:33:26 UTC</pubDate>
-            <enclosure url="https://github.com/Antondomashnev/FBSnapshotsViewer/releases/download/0.1.0/FBSnapshotsViewer-0.1.0.app.zip" type="application/octet-stream" sparkle:version="0.1.0"/>
-            <enclosure url="https://github.com/Antondomashnev/FBSnapshotsViewer/releases/download/0.1.0/FBSnapshotsViewerRunPhaseScript-0.1.0.zip" type="application/octet-stream" sparkle:version="0.1.0"/>
-        </item>
     </channel>
 </rss>
