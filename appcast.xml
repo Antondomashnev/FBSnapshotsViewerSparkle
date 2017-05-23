@@ -2,7 +2,7 @@
     <channel>
         <title>FBSnapshotsViewer - changelog</title>
         <link>
-            http://whispering-savannah-78358.herokuapp.com/FBSnapshotsViewer/appcast.xml
+            https://raw.githubusercontent.com/Antondomashnev/FBSnapshotsViewerSparkle/master/appcast.xml
         </link>
         <description>Most recent changes with links to updates.</description>
         <dc:language>en</dc:language>
